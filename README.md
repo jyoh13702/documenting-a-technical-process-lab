@@ -7,6 +7,7 @@ The purpose of this detailed process is to outline how to install and CPU and mo
 3. Securing the CPU: Place the CPU into the socket and secure it with the retension mechanism. Do not apply excessive force.
 
 ![alt text](https://www.intel.com/content/dam/support/us/en/images/processors/58166_image2.png)
+
 4. Thermal Paste Apllication: Apply a small, pea-sized amount of thermal paste to the center of the CPU before attaching the cooler. This allows for proper heat transfer between the cooler and the CPU.
 5. Attach the Cooler: Secure the CPU cooler to the motherboard. Ensure it is properly aligned and connected to the CPU fan header.
 6. Install the Motherboard: Place the motherboard in the case. Make sure it aligns with the standoffs and secure it with screws.
